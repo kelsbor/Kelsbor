@@ -18,7 +18,7 @@
 
 **Infrastructure/Operations**: Linux, Virtualization, Docker.
 
-**Other Fields:** Data Science, Cybersecurity.
+**Other Fields:** Data Science, Cybersecurity, LLMs and Machine Learning.
 
 
 <div align="center"> <a href="https://www.linkedin.com/in/kelvin-huss-borg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:kehsbor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a></div>
