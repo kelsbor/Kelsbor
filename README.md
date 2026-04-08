@@ -2,7 +2,13 @@
 
 - Undergraduate Computer Engineering student.
 
-<div align="center"> <a href="https://github.com/kelsbor"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelsbor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelsbor&layout=compact&langs_count=16&theme=dracula"/> </a> </div>
+<div align="center">
+  <!-- Troque o theme aqui: 2077 | github_dark | tokyonight | dracula | nord_dark | ... -->
+  <img alt="Stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kelsbor&theme=tokyonight" />
+  <img alt="Top Languages by Repo"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kelsbor&theme=tokyonight" />
+</div>
 
 
 ## Skills & Tools:
